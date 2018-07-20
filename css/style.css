@@ -1,0 +1,40 @@
+h1, h2, h3, h4, h5{
+				font-size: 40px;
+				background-color: gray;
+			}
+
+			img{
+				display: block;
+				margin-right: auto;
+				margin-left: auto;
+				height: 300px;
+				width: 225px;
+			}
+
+			h1{
+				text-align:center;
+			}
+
+			p{
+				font-size: 28px;
+			} 
+
+			tr, td, th{
+				font-size: 28px;
+				text-align: left;
+			}
+
+			table{
+				border-collapse: collapse;
+				border: 1px solid ;
+				width: 50%;
+			}
+
+			td, th{
+				border: 1px solid;
+				background-color: gray;
+			}
+
+			ul{
+				font-size: 28px;
+			}
